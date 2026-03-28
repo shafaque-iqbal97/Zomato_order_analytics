@@ -12,15 +12,14 @@
 ---
 
 ## 🔹 Key Highlights
-- Identified **top most ordered dishes**  
-- Visualized **Avg Order Value trends and seasonality**  
-- Measured **add-on & offer effectiveness**  
-- Interactive dashboard for **quick decision-making**
-
----
-
-## 🔹 Dashboard Preview
-![Overview](dashboard/screenshots/overview.png)
+- Identified **top 5 most ordered dishes**   
+- Visualized **Average Order Value (AOV) trends**
+- Measured **add-on & offer effectiveness** over time  
+ - Determined **most popular dishes and add-ons**  
+- Tracked **revenue distribution across categories**  
+- Created **interactive KPIs** for quick business decision-making  
+- Built **filters and slicers** in Power BI for dynamic analysis  
+- SQL queries include **aggregations,group by,order by, and top-n analyses**  
 
 ---
 
